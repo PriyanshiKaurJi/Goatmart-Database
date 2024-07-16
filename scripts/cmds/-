@@ -1,0 +1,2 @@
+test2.js
+https://text2image-wine.vercel.app/kshitiz?prompt=${encodeURIComponent(prompt)}&model=1
