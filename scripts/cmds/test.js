@@ -1,1 +1,3 @@
-https://api.github.com/repos/${owner}/${repo}/contents/scripts/cmds/${fileName
+//TEST FILE FOR NEW CMD GITSTORE 
+
+//UNDER BETA PHASE VER 0.1.0
